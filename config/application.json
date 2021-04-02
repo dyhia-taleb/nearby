@@ -38,7 +38,7 @@
   "sliderRange": {
     "default": 1.2,
     "minimum": 0,
-    "maximum": 2
+    "maximum": 10
   },
   "precision": 2,
   "inputsEnabled": false,
